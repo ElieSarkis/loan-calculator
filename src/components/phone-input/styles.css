@@ -1,0 +1,32 @@
+.MuiOutlinedInput-root{
+    height: 43px !important;
+}
+
+.MuiSvgIcon-root{
+    height: 47px !important;
+    width: 25px !important;
+}
+
+  .text-field{
+      width: 100% !important;
+  }
+
+  .text-field .MuiOutlinedInput-root {
+    border-radius: 0px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+  }
+
+  .MuiInputBase-root{
+      background-color: #FFFFFF;
+  }
+
+  .button{
+    background-color: #55AC36 !important;
+    color: #FFFFFF !important;
+    padding-left: 31px !important;
+    padding-right: 31px !important;
+    border-radius: 0px !important;
+    border-top-right-radius: 6px !important;
+    border-bottom-right-radius: 6px !important;
+  }
